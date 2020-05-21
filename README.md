@@ -1,6 +1,6 @@
-# flutter_food_delivery_ui
+# flutter_UI_for_FoodDeliver_system
 
-A new Flutter project.
+A new Flutter project translated from video refereces.
 
 ## Getting Started
 
